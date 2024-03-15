@@ -1,11 +1,13 @@
 <h1>Hi, I'm Jieying (Iris)! </h1>
 
-<h2>👨‍💻 Comp Sci 300: Programming II Projects:</h2>
+<h2>👨‍💻 [Comp Sci 300: Programming II] Projects:</h2>
 
 - <b>Object Oriented Programming Practice </b>
   - [Course Project: Among Us](https://github.com/Iris-XIII/P02-Among-Us)
+- <b>Data Structure Practice </b>
+  - [Course Project: Workout Builder](https://github.com/Iris-XIII/P07-Workout-Builder/tree/main)
 
-<h2>👨‍💻 Comp Sci 400: Programming III Projects:</h2>
+<h2>👨‍💻 [Comp Sci 400: Programming III] Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
