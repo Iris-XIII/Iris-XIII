@@ -11,8 +11,8 @@
 
 <h2>👨‍💻 [Comp Sci 400: Programming III] Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Software Development Project </b>
+  - [Course Project: iSong App](https://github.com/Iris-XIII/iSong-FrontendDeveloper/tree/main)
 
 
 
