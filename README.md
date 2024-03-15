@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Comp Sci 300: Programming II Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Object Oriented Programming Practice </b>
+  - [Course Project: Among Us](https://github.com/Iris-XIII/P02-Among-Us)
 
 <h2>👨‍💻 Comp Sci 400: Programming III Projects:</h2>
 
