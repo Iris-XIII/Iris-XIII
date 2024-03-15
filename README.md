@@ -4,18 +4,16 @@
 
 - <b>Object Oriented Programming Practice </b>
   - [Course Project: Among Us](https://github.com/Iris-XIII/P02-Among-Us)
-- <b>Data Structure Practice </b>
+- <b>Data Structures and Algorithms Practice </b>
   - [Course Project: Workout Builder](https://github.com/Iris-XIII/P07-Workout-Builder/tree/main)
+  - [Course Project: Ticket Rush](https://github.com/Iris-XIII/P08-Ticket-Rush/tree/main)
+  - [Course Project: The Bus Stop Tree](https://github.com/Iris-XIII/P09-The-Bus-Stop-Tree/tree/main)
 
 <h2>👨‍💻 [Comp Sci 400: Programming III] Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-
-<h2>📺 Demo Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
