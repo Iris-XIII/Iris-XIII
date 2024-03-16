@@ -24,7 +24,7 @@
 
 [youtube]: https://www.youtube.com/channel/UCqd4aSQuJecP0a2bWI_Wagw
 [instagram]: https://www.instagram.com/ixruis.m/
-[linkedin]: https://www.linkedin.com/in/iris-xu-27642821b/
+[linkedin]: https://www.linkedin.com/in/irisxu123/
 
 <!--
 **Iris-XIII/Iris-XIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
